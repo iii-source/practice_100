@@ -1,10 +1,14 @@
 ↓↓↓↓↓↓↓↓以下自分用追記↓↓↓↓↓↓↓
 
+DS協会から使用させて頂いております。
+
+https://www.datascientist.or.jp/
+
 下記URLからcloneしたもので自作しておりません、自己学習用です。
 
 https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/tree/master/docker/doc
 
-下記フォルダのipynbに自分の解答を乗せていきます。
+下記フォルダのipynbに自分の解答を載せていきます。
 - 100knocks-preprocess/docker/work/
 - preprocess_knock_Python.ipynb など
 
